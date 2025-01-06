@@ -1,6 +1,6 @@
  Hello, I'm Moises 👋
 
-- 🌱 I’m currently learning Python, Javascript, HTML, CSS, MySQL!
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, MySQL!
 - ➗ Making a JS calculator at the moment.
 - 😄 Pronouns: He/him.
 <!-- 🔭 I’m currently working on ...
