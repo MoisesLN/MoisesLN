@@ -1,7 +1,7 @@
  Hello, I'm Moises 👋
 
 - 🌱 I’m currently learning Python, JavaScript, HTML, CSS, MySQL!
-- ➗ Making a JS calculator at the moment.
+- ➗ Making a homemade Spotify web page at the moment.
 - 😄 Pronouns: He/him.
 <!-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
