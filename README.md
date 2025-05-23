@@ -1,8 +1,8 @@
- Hello, I'm Moises 👋
+Hi, I'm Moises 👋
 
-- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, MySQL!
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, MySQL and also C#!
 - ➗ Making webpages atm.
-- 😄 Pronouns: He/him.
+- Front-end 4 life 💻💙
 <!-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
