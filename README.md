@@ -2,7 +2,7 @@
 ### Front-end Developer with main focus on web, also messing with game development
 ### Tech student by IFRN - CA
 
-## ⚡️ Status
+## ⚡️ Stats
 ![moisesln's Stats](https://github-readme-stats.vercel.app/api?username=moisesln&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![moisesln's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true)
 ![moisesln's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesln&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
