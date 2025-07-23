@@ -1,6 +1,6 @@
 # Hi, I'm Moises 👋
-### Front-end Developer with main focus on web, also messing with game development
-### Tech student by IFRN - CA
+💻 I am Moises, a <b>Front-end developer</b> mainly focused on web. Always looking towards learning everything computer related, I consider myself in love with what computing has to offer! <br>
+💙 Tech student by IFRN - CA
 
 ## ⚡️ Stats
 ![moisesln's Stats](https://github-readme-stats.vercel.app/api?username=moisesln&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
