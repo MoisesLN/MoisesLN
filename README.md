@@ -34,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
   </a>
 </p>
+![Counter](https://komarev.com/ghpvc/?username=MoisesLN&style=pixel&color=blueviolet)
 <!--![moisesln's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->
 <!-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
