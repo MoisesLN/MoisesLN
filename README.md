@@ -15,6 +15,6 @@
 ### 💻 Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)
 ### 🔧 Tools and extras
-[![Tools and extras](https://skillicons.dev/icons?i=git,vue,vite,github,unity,figma)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=linux,git,vue,vite,github,unity,figma)](https://skillicons.dev)
 
 <!--![moisesln's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->
