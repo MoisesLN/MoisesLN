@@ -1,6 +1,7 @@
 # Hi, I'm Moises 👋
 💻 I am Moises, a <b>Front-end developer</b> mainly focused on web. Always looking towards learning everything computer related, I consider myself in love with what computing has to offer! <br>
-💙 Tech student by IFRN - CA
+💙 Tech student by IFRN - CA <br>
+🧑‍💻 Check out my portfolio: <b>[moisesln.dev](https://moisesln.dev/)</b>
 
 ## ⚡️ Stats
 <p align="left">
