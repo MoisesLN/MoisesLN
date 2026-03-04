@@ -14,8 +14,8 @@
 
 ## ⚒️ Languages and tools
 ### 💻 Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,cs,lua,mysql)](https://skillicons.dev)
 ### 🔧 Tools and extras
-[![Tools and extras](https://skillicons.dev/icons?i=linux,vue,react,vite,git,github,unity,figma)](https://skillicons.dev)
+[![Tools and extras](https://skillicons.dev/icons?i=vue,nextjs,react,tailwind,linux,vite,git,unity,figma)](https://skillicons.dev)
 
 <!--![moisesln's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->
